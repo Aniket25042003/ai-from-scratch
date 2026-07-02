@@ -5,7 +5,7 @@ I'm rebuilding modern AI and LLM concepts from first principles using Python and
 ## Progress
 
 ### Neural Network
-- [] Linear Regression
+- [x] Linear Regression
 - [] Logistic Regression
 - [] Perceptron
 - [] Single Hidden Layer Neural Network
