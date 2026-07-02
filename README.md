@@ -7,13 +7,13 @@ I'm rebuilding modern AI and LLM concepts from first principles using Python and
 ### Neural Network
 - [x] Linear Regression
 - [x] Logistic Regression
-- [] Perceptron
-- [] Single Hidden Layer Neural Network
-- [] Multi-layer Neural Network
-- [] Backpropagation
-- [] Stochastic Gradient Descent
-- [] Mini-batch Gradient Descent
-- [] Adam Optimizer
+- [x] Perceptron
+- [x] Single Hidden Layer Neural Network
+- [x] Multi-layer Neural Network
+- [x] Backpropagation
+- [x] Stochastic Gradient Descent
+- [x] Mini-batch Gradient Descent
+- [x] Adam Optimizer
 
 ### Deep Learning Building Blocks
 - [] Xavier Intialization
